@@ -7,7 +7,7 @@ A custom react hls player inspired by Youtube with bitrate options if avaiblable
 It uses [hls.js](https://github.com/video-dev/hls.js) to play your hls live stream if your browser supports `html 5 video` and `MediaSource Extension`.
 
 ```javascript
-npm install @akatheos/react-hls-player@1.0.0
+npm install @aka_theos/react-hls-player@1.0.0
 ```
 
 
@@ -18,7 +18,7 @@ npm install @akatheos/react-hls-player@1.0.0
 ```javascript
 import React from 'react';
 import ReactDOM from 'react-dom';
-import TheosPlayer from '@akatheos/react-hls-player';
+import TheosPlayer from '@aka_theos/react-hls-player';
 
 ReactDOM.render(
   <TheosPlayer
@@ -36,7 +36,7 @@ All available config properties can be found on the [Fine Tuning](https://github
 ```javascript
 import React from 'react';
 import ReactDOM from 'react-dom';
-import TheosPlayer from '@akatheos/react-hls-player';
+import TheosPlayer from '@aka_theos/react-hls-player';
 
 ReactDOM.render(
   <TheosPlayer
