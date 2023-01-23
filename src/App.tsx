@@ -1,4 +1,4 @@
-import { TheosPlayer } from "@akatheos/theos-react-hls-player";
+import { TheosPlayer } from "@aka_theos/react-hls-player";
 import "./App.css";
 
 function App() {
