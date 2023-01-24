@@ -60,9 +60,9 @@ All [video properties](https://www.w3schools.com/tags/att_video_poster.asp) are 
 | src `String`, `required` | The hls url that you want to play                                                                                       |
 | autoPlay `Boolean`       | Autoplay when component is ready. Defaults to `false`                                                                   |
 | hlsConfig `Object`       | `hls.js` config, you can see all config [here](https://github.com/video-dev/hls.js/blob/master/docs/API.md#fine-tuning) |
-| width                    | Determines the width of the video player. note that if you leave this empty the video player is responsive.             |
-| title                    | give the video a title and it will appear in the video player.                                                          |
-| color                    | give the video player a color and it will change the color theme of the player.                                         |
+| width `String`           | Determines the width of the video player. note that if you leave this empty the video player is responsive.             |
+| title `String`           | give the video a title and it will appear in the video player.                                                          |
+| color `String`           | give the video player a color and it will change the color theme of the player.                                         |
 
 ### Additional Notes
 
